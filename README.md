@@ -24,11 +24,11 @@ Driven by outcomes, not just ideas.
 > A product-market fit analyzer for early-stage startup ideas.  
 Custom scoring logic built using Python & Flask. Clean UI built with vanilla JS and Bootstrap.
 
-#### 🔹 [Real Estate Video Portfolio](https://github.com/yourusername/real-estate-portfolio)
+#### 🔹 [Real Estate Video Portfolio](https://github.com/aryuv/realestate-by-aryav)
 > A showcase of high-end real estate video work done for actual clients.  
 Includes cinematic edits, property walkthroughs, and advanced transitions using Premiere Pro & After Effects.
 
-#### 🔹 [CS50 Project Suite](https://github.com/yourusername/cs50-projects)
+#### 🔹 [CS50 Project Suite](https://github.com/me50/aryuv)
 > Solutions to Harvard’s CS50x problem sets — includes C, Python, Flask, and SQL.  
 Documented, modular, and structured to highlight clarity of logic and clean code practices.
 
