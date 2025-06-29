@@ -12,7 +12,7 @@ Currently exploring the intersection of **AI, automation, and real estate media*
 Driven by outcomes, not just ideas.
 
 - 🏛 Currently pursuing Harvard’s **CS50** for a strong foundational core
-- 🏊‍♂️ National-level swimmer, trained under elite coaching with H2O Qatar
+- 🏊‍♂️ National-level swimmer and taekwondo player.
 - 🎥 Professional editor for **luxury real estate** video showcases
 - 🧠 Obsessed with clarity, elite performance, and long-term compound impact
 
@@ -35,8 +35,7 @@ Documented, modular, and structured to highlight clarity of logic and clean code
 ---
 
 ### 🧭 Currently Working On
-- A voice-based automation tool for creatives  
-- SAT prep + AP coursework while maintaining athletic training  
+- An AI based on an automation tool.
 - Building a portfolio aimed at admission into top-tier CS + MBA programs  
 - Expanding professional network in **real estate, AI, and elite academia**
 
