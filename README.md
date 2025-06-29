@@ -20,7 +20,7 @@ Driven by outcomes, not just ideas.
 
 ### 🧩 Projects & Work
 
-#### 🔹 [Startup Evaluator]([https://github.com/yourusername/startup-evaluator](https://github.com/aryuv/startup-evaluator-backend))
+#### 🔹 [Startup Evaluator](https://github.com/aryuv/startup-evaluator-backend)
 > A product-market fit analyzer for early-stage startup ideas.  
 Custom scoring logic built using Python & Flask. Clean UI built with vanilla JS and Bootstrap.
 
